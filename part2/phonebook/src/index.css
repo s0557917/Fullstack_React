@@ -1,0 +1,25 @@
+.success {
+    color: white;
+    background: hsl(113, 69%, 59%);
+    font-size: 35px;
+    border: 5px solid hsl(113, 60%, 35%);
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    width: 25%;
+}
+
+.error {
+    color: white;
+    background: hsl(0, 69%, 59%);
+    font-size: 35px;
+    border: 5px solid hsl(0, 60%, 35%);
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    width: 25%;
+}
